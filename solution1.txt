@@ -1,0 +1,8 @@
+--generation dispatch
+bus id,unit id,pg(MW),qg(MVar)
+1,'1 ',59.0634,-81.1012
+6,'1 ',81.3021,45.0164 
+8,'1 ',52.6696,-10.2216
+2,'1 ',70.7186,56.5139
+3,'1 ',15.6231,57.4901
+--end of generation dispatch
